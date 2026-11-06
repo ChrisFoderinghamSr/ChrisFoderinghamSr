@@ -1,6 +1,6 @@
 # Christian Foderingham
 
-I build full-stack web applications and teach JavaScript as a **Software Developer Instructor at VetBoss**. Before moving into development, I supported about 1,400 soldiers across two battalions. Troubleshooting account and network issues taught me to start with what the person at the keyboard is trying to do.
+I served in the Marine Corps, the Army, and the Kansas Army National Guard. In the Army, I supported about 1,400 soldiers across two battalions. Today, in my civilian career, I build full-stack web applications and teach JavaScript as a **Software Developer Instructor at VetBoss**.
 
 ## Selected projects
 
