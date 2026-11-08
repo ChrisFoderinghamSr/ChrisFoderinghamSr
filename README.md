@@ -30,9 +30,9 @@ I’m looking for a **remote software development or application support opportu
 
 I’m pursuing a **B.S. in Information Technology at Capella University**, with a focus in Information Assurance and Cybersecurity; expected completion is **May 2028**. I’m continuing to develop my cloud and cybersecurity knowledge and do not yet hold cybersecurity certifications.
 
-## Earned certifications
+## Developer Certifications
 
-I earned my **Professional Python Developer** certification on **November 7, 2026**. I now hold five developer certifications from the **Coalition of Information Technology Businesses (CoITB)**.
+I currently hold five developer certifications from the **Coalition of Information Technology Businesses (CoITB)**.
 
 | Certification | Issued |
 | --- | --- |
