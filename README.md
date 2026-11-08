@@ -11,6 +11,7 @@ I’m looking for a **remote software development or application support opportu
 ## What I bring
 
 - **Web development:** JavaScript, TypeScript, React, Next.js, HTML, and CSS.
+- **Python:** CoITB Professional Python Developer certified; continuing to build practical experience.
 - **APIs and data:** Node.js, Express, REST APIs, PostgreSQL, MySQL, and Prisma.
 - **IT operations:** Windows Server, Microsoft 365, Active Directory, networking, and structured troubleshooting.
 - **Teaching and teamwork:** Breaking down technical concepts, documenting decisions, and helping learners reason through their code.
@@ -29,7 +30,17 @@ I’m looking for a **remote software development or application support opportu
 
 I’m pursuing a **B.S. in Information Technology at Capella University**, with a focus in Information Assurance and Cybersecurity; expected completion is **May 2028**. I’m continuing to develop my cloud and cybersecurity knowledge and do not yet hold cybersecurity certifications.
 
-My earned developer certifications include CoITB **HTML/CSS Web Designer**, **JavaScript Professional Developer**, **ReactJS Framework Developer**, and **MySQL Backend Developer** (2026).
+## Earned certifications
+
+I earned my **Professional Python Developer** certification on **November 7, 2026**. I now hold five developer certifications from the **Coalition of Information Technology Businesses (CoITB)**.
+
+| Certification | Credential ID | Issued | Expires |
+| --- | --- | --- | --- |
+| Professional Python Developer | 7567 | November 7, 2026 | November 7, 2029 |
+| Certified MySQL Backend Developer | 7454 | October 3, 2026 | October 3, 2029 |
+| Certified ReactJS Framework Developer | 7361 | September 5, 2026 | September 5, 2029 |
+| Certified JavaScript Professional Developer | 7308 | August 8, 2026 | August 8, 2029 |
+| Certified HTML/CSS Web Designer | 7231 | July 18, 2026 | July 18, 2029 |
 
 ## Let’s connect
 
