@@ -1,13 +1,38 @@
-# Christian Foderingham
+# Chris Foderingham
 
-I served in the Marine Corps, the Army, and the Kansas Army National Guard. In the Army, I supported about 1,400 soldiers across two battalions. Today, in my civilian career, I build full-stack web applications and teach JavaScript as a **Software Developer Instructor at VetBoss**.
+**Software Developer · Software Developer Instructor · IT Operations**
 
-## Selected projects
+I build web applications, teach JavaScript at VetBoss, and bring a practical troubleshooting mindset to the work. I like understanding how a system fits together, finding the cause of a problem, and explaining the solution clearly.
 
-| Project | What to look for |
-| --- | --- |
-| [Odin Digital Academy](https://github.com/ChrisFoderinghamSr/odin-digital-academy-1) | A Next.js and TypeScript learning platform. Follow a student from sign-in to a protected dashboard and see how Prisma connects the curriculum to PostgreSQL. |
-| [Go Path](https://go.chrisfoderingham.com/) · [Source code](https://github.com/ChrisFoderinghamSr/Go-Path-Learning) | A self-paced course served by a Go backend. Students save code drafts and submit project checkpoints for instructor review. |
-| [Viña Raíces Winery](https://github.com/ChrisFoderinghamSr/Vina-Raices-Winery) | A responsive website concept for a fictional Panamanian winery. Explore the wine collection, open a tasting profile, and try navigating with a keyboard. |
+I served in the **U.S. Marine Corps, U.S. Army, and Kansas Army National Guard**. My background includes communications, systems administration, identity and access management, technical documentation, and helping people get their work done.
 
-I’m open to remote software developer roles and freelance web projects. [Visit my portfolio](https://www.chrisfoderingham.com/) or [connect on LinkedIn](https://www.linkedin.com/in/christian-foderingham-sr/).
+I’m looking for a **remote software development or application support opportunity** where I can contribute, learn from experienced engineers, and keep improving my craft. **Cloud and cybersecurity are the direction I’m building toward.**
+
+## What I bring
+
+- **Web development:** JavaScript, TypeScript, React, Next.js, HTML, and CSS.
+- **APIs and data:** Node.js, Express, REST APIs, PostgreSQL, MySQL, and Prisma.
+- **IT operations:** Windows Server, Microsoft 365, Active Directory, networking, and structured troubleshooting.
+- **Teaching and teamwork:** Breaking down technical concepts, documenting decisions, and helping learners reason through their code.
+- **Supporting experience:** AWS Amplify build configuration and Docker-based support workflows.
+
+## Selected work
+
+| Project | What I’m building | Status |
+| --- | --- | --- |
+| [Odin Digital Academy](https://github.com/ChrisFoderinghamSr/odin-digital-academy-1) | A learning management system using Next.js, TypeScript, Prisma, and PostgreSQL, with authentication and student workflows. | Independent project; in development |
+| [Go Path](https://github.com/ChrisFoderinghamSr/Go-Path-Learning) | A learning platform built around a Go backend, lessons, and code practice. | Independent project |
+| [Viña Raíces Winery](https://github.com/ChrisFoderinghamSr/Vina-Raices-Winery) | A responsive website concept with interactive wine profiles and keyboard-friendly navigation. | Front-end concept |
+| [Developer portfolio](https://www.chrisfoderingham.com/) | A React and TypeScript portfolio presenting my projects, technical background, and learning direction. | Personal project |
+
+## Where I’m headed
+
+I’m pursuing a **B.S. in Information Technology at Capella University**, with a focus in Information Assurance and Cybersecurity; expected completion is **May 2028**. I’m continuing to develop my cloud and cybersecurity knowledge and do not yet hold cybersecurity certifications.
+
+My earned developer certifications include CoITB **HTML/CSS Web Designer**, **JavaScript Professional Developer**, **ReactJS Framework Developer**, and **MySQL Backend Developer** (2026).
+
+## Let’s connect
+
+[Portfolio](https://www.chrisfoderingham.com/) · [LinkedIn](https://www.linkedin.com/in/chris-foderingham-sr/) · [Email](mailto:christian.x.foderingham@gmail.com)
+
+Based in Kansas, United States. Open to remote opportunities and freelance web projects.
