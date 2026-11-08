@@ -34,13 +34,13 @@ I’m pursuing a **B.S. in Information Technology at Capella University**, with 
 
 I earned my **Professional Python Developer** certification on **November 7, 2026**. I now hold five developer certifications from the **Coalition of Information Technology Businesses (CoITB)**.
 
-| Certification | Credential ID | Issued | Expires |
-| --- | --- | --- | --- |
-| Professional Python Developer | 7567 | November 7, 2026 | November 7, 2029 |
-| Certified MySQL Backend Developer | 7454 | October 3, 2026 | October 3, 2029 |
-| Certified ReactJS Framework Developer | 7361 | September 5, 2026 | September 5, 2029 |
-| Certified JavaScript Professional Developer | 7308 | August 8, 2026 | August 8, 2029 |
-| Certified HTML/CSS Web Designer | 7231 | July 18, 2026 | July 18, 2029 |
+| Certification | Issued |
+| --- | --- |
+| Professional Python Developer | November 7, 2026 |
+| Certified MySQL Backend Developer | October 3, 2026 |
+| Certified ReactJS Framework Developer | September 5, 2026 |
+| Certified JavaScript Professional Developer | August 8, 2026 |
+| Certified HTML/CSS Web Designer | July 18, 2026 |
 
 ## Let’s connect
 
